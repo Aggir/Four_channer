@@ -1,16 +1,15 @@
-# Four Channer
+# Four Channer [Old Project]
+## Overview
+<b>Four Channer</b> is a mobile application that supports all [4Chan](https://www.4channel.org/) boards. It offers a fast image, gif, and WebM player that lets users save all images of a thread with just one click. Users can also favorite boards and watchlist threads for easy and quick access. The app allows users to share images in their social networks and messaging apps.
+<b>Four Channer</b> is currently a read-only browsing app but is under continuous development.
 
-A new Flutter project.
+<b>Features:</b>
+- Supports all 4Chan boards.
+- Save all images of a thread with one click.
+- Fast image, gif and WebM player.
+- Save Webm files.
+- Copy & share thread/reply url.
+- Favorite boards and watchlist thread for easy and quick access.
+- Share images in your socials networks and messagin apps.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### <b>NOTE: some bugs may be present. The app is not affiliated with 4chan.org, and all data is gathered from the [4Chan API](https://github.com/4chan/4chan-API).</b>
